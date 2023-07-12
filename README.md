@@ -12,11 +12,17 @@ Criar uma interface na qual o usuário possa inserir um Código de Endereçament
 3. **Preenchimento Automático**: A API retornará os detalhes do endereço que devem ser preenchidos automaticamente nos campos seguintes na interface.
 4. **Validação do Formulário**: O formulário não pode ser enviado até que todos os campos estejam completamente preenchidos.
 
+## Tecnologia
+Para a implementação deste projeto, é necessário utilizar:
+   - Angular (versão 2 ou superior)
+   - Git
+   - Sass
+     
 ## Design da Interface
 Seja criativo ao desenvolver uma interface amigável e intuitiva. O design deve tornar a utilização fácil e proporcionar uma experiência de usuário agradável.
 
 ## Submissão
-Por favor, envie um e-mail para angelo@techdog.com.br com o link para o repositório do Github contendo o seu projeto.
+Por favor, envie um e-mail para angelolimadias@gmail.com com o link para o repositório do Github contendo o seu projeto.
 
 **Imagem demonstrativa:**
 
