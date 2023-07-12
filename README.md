@@ -21,7 +21,7 @@ Para a implementação deste projeto, é necessário utilizar:
 ## Design da Interface
 Seja criativo ao desenvolver uma interface amigável e intuitiva. O design deve tornar a utilização fácil e proporcionar uma experiência de usuário agradável.
 
-## Submissão
+## Entrega
 Por favor, envie um e-mail para angelolimadias@gmail.com com o link para o repositório do Github contendo o seu projeto.
 
 **Imagem demonstrativa:**
