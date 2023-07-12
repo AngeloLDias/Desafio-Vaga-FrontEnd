@@ -15,9 +15,6 @@ Criar uma interface na qual o usuário possa inserir um Código de Endereçament
 ## Design da Interface
 Seja criativo ao desenvolver uma interface amigável e intuitiva. O design deve tornar a utilização fácil e proporcionar uma experiência de usuário agradável.
 
-## Entrega
-Enviar email para angelo@techdog.com.br com o link do repositóio do github.
-
 ## Submissão
 Por favor, envie um e-mail para angelo@techdog.com.br com o link para o repositório do Github contendo o seu projeto.
 
